@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying Software Engineering at Cujae University, La Habana
-- 🌱 I’m currently learning Web and Videogames development
-- 📫 How to reach me: grjuako18@gmail.com
+- 🔭 I’m a Software Engineer from Cuba
+- 🌱 I’m a Web and Game developer
+- 📫 How to reach me: giangrenier18@gmail.com
 - ⚡ Fun fact: The force is with me
