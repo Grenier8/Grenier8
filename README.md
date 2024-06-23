@@ -3,6 +3,7 @@
 ###
 
 <p align="left">Full Stack Web Developer<br>Game Developer</p>
+<p>Feel free to reach me: <a>giangrenier18@gmail.com</a></p>
 
 ###
 
